@@ -1,0 +1,1262 @@
+fileFormatVersion: 2
+guid: 59b389b5fc12d3b4f960042d23ef3a0d
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PizzaSk8Guy_SpriteSheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1523
+        width: 250
+        height: 227
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bdf3274f952c384a87e34c45f8d3290
+      internalID: 1964732072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PizzaSk8Guy_SpriteSheet_1
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 1523
+        width: 250
+        height: 227
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e56fd325b7d27ca4592a84020db8746b
+      internalID: 590100940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PizzaSk8Guy_SpriteSheet_2
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 1523
+        width: 250
+        height: 227
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80b0128abc53fb940a585e245adeb582
+      internalID: 174450462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PizzaSk8Guy_SpriteSheet_3
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 1523
+        width: 250
+        height: 227
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d14e6157b65e07546a89d84f3223f031
+      internalID: 646703487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PizzaSk8Guy_SpriteSheet_4
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 1523
+        width: 250
+        height: 227
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c494602c3f8a6041a8a0c553fc934a4
+      internalID: 910409813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PizzaSk8Guy_SpriteSheet_5
+      rect:
+        serializedVersion: 2
+        x: 1250
+        y: 1523
+        width: 250
+        height: 227
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ffd90307fc6f184c9dd74e521c35f97
+      internalID: 1353596487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PizzaSk8Guy_SpriteSheet_6
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 1523
+        width: 250
+        height: 227
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 106d520d9fdf2e849ac55550f8c32420
+      internalID: -470791962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PizzaSk8Guy_SpriteSheet_7
+      rect:
+        serializedVersion: 2
+        x: 1750
+        y: 1523
+        width: 250
+        height: 227
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea60108b900e0db4bbb26baae4d83b0b
+      internalID: 438924550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PizzaSk8Guy_SpriteSheet_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1273
+        width: 250
+        height: 227
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccda683d76b3d934dbc3ac61101b8212
+      internalID: -243632933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PizzaSk8Guy_SpriteSheet_9
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 1273
+        width: 250
+        height: 227
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74584abaef0a0ba448e4c217f7bd65f0
+      internalID: 1701321886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PizzaSk8Guy_SpriteSheet_10
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 1273
+        width: 250
+        height: 227
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84d8da927f1c44c47910600262d43902
+      internalID: 1373747666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PizzaSk8Guy_SpriteSheet_11
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 1273
+        width: 250
+        height: 227
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adc9bea805a20fb4f9efc7bc8fc1c491
+      internalID: 1285269881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PizzaSk8Guy_SpriteSheet_12
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 1273
+        width: 250
+        height: 227
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12ebe20b96a218d498ff53f40db9a62a
+      internalID: -1173479287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PizzaSk8Guy_SpriteSheet_13
+      rect:
+        serializedVersion: 2
+        x: 1250
+        y: 1273
+        width: 250
+        height: 227
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d408e984b9c7ed848bea9db1f1348aa6
+      internalID: 1308605525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PizzaSk8Guy_SpriteSheet_14
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 1273
+        width: 250
+        height: 227
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3245022157abe3c43acc180b4feeb690
+      internalID: 1237148257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PizzaSk8Guy_SpriteSheet_15
+      rect:
+        serializedVersion: 2
+        x: 1750
+        y: 1273
+        width: 250
+        height: 227
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bb8440ebec461443a7da8b058e30e11
+      internalID: 400670323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PizzaSk8Guy_SpriteSheet_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1023
+        width: 250
+        height: 227
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b96f7c0ff431e324eadf5b4770065664
+      internalID: 871186273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PizzaSk8Guy_SpriteSheet_17
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 1023
+        width: 250
+        height: 227
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f098a8a2cc233c49a0d2c4b3f28ccb4
+      internalID: -1896461159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PizzaSk8Guy_SpriteSheet_18
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 1023
+        width: 250
+        height: 227
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 733101c79a1faa445b211942f394483d
+      internalID: 1549216572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PizzaSk8Guy_SpriteSheet_19
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 1023
+        width: 250
+        height: 227
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2ecdf676275a594e8ae6a7d657bcee6
+      internalID: -1433450135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PizzaSk8Guy_SpriteSheet_20
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 1023
+        width: 250
+        height: 227
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f85a3ff41f35c894abf92c881625318a
+      internalID: -379704047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PizzaSk8Guy_SpriteSheet_21
+      rect:
+        serializedVersion: 2
+        x: 1250
+        y: 1023
+        width: 250
+        height: 227
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c391ece38930c154ab5a8b98b08bde3b
+      internalID: -1012100307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PizzaSk8Guy_SpriteSheet_22
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 1023
+        width: 250
+        height: 227
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3fce6925604cb44287cfceb54a00adf
+      internalID: 2017775022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PizzaSk8Guy_SpriteSheet_23
+      rect:
+        serializedVersion: 2
+        x: 1750
+        y: 1023
+        width: 250
+        height: 227
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22ace8e9013cced43badadda046d5e0f
+      internalID: -1030766051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PizzaSk8Guy_SpriteSheet_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 773
+        width: 250
+        height: 227
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0add40b8d80f6b419adfe2cbc190711
+      internalID: -2038290580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PizzaSk8Guy_SpriteSheet_25
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 773
+        width: 250
+        height: 227
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a85b8d681c8e00d498fd159cd97dd037
+      internalID: 535916683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PizzaSk8Guy_SpriteSheet_26
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 773
+        width: 250
+        height: 227
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e62a21d738ea93b4bb055fb772e3a42e
+      internalID: -985041659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PizzaSk8Guy_SpriteSheet_27
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 773
+        width: 250
+        height: 227
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bffbbcaed98f8de4e83fd8d969157812
+      internalID: -1741984078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PizzaSk8Guy_SpriteSheet_28
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 773
+        width: 250
+        height: 227
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cd83c2189c11504f82d78fdfe233d15
+      internalID: 1234274788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PizzaSk8Guy_SpriteSheet_29
+      rect:
+        serializedVersion: 2
+        x: 1250
+        y: 773
+        width: 250
+        height: 227
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abd0038454a355e4ba6da5066a27afed
+      internalID: 1443692486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PizzaSk8Guy_SpriteSheet_30
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 773
+        width: 250
+        height: 227
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6668a0a864b7fc74d9ca2aee5c96e3e3
+      internalID: -1154366572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PizzaSk8Guy_SpriteSheet_31
+      rect:
+        serializedVersion: 2
+        x: 1750
+        y: 773
+        width: 250
+        height: 227
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1e22c5cf27dba8438253461242f40e3
+      internalID: -166357119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PizzaSk8Guy_SpriteSheet_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 523
+        width: 250
+        height: 227
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6111500ec35bf23409181e0c9ca6fd9c
+      internalID: 1293166315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PizzaSk8Guy_SpriteSheet_33
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 523
+        width: 250
+        height: 227
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dc08ad73c49170438bdb89affe37512
+      internalID: -1348023638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PizzaSk8Guy_SpriteSheet_34
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 523
+        width: 250
+        height: 227
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 314d726e9db179043bb4b45e2fa73183
+      internalID: -1884194221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PizzaSk8Guy_SpriteSheet_35
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 523
+        width: 250
+        height: 227
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bb57f090a8a1384e8c1a0adef494fd9
+      internalID: -1858872298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PizzaSk8Guy_SpriteSheet_36
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 523
+        width: 250
+        height: 227
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0eebfd6a61a07f4bbf64e2867560ece
+      internalID: 386632740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PizzaSk8Guy_SpriteSheet_37
+      rect:
+        serializedVersion: 2
+        x: 1250
+        y: 523
+        width: 250
+        height: 227
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f5453ac3268d88448fb548a63384b8a
+      internalID: 2006198644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PizzaSk8Guy_SpriteSheet_38
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 523
+        width: 250
+        height: 227
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 924870d7467c54e40a814954658e7686
+      internalID: -518106705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PizzaSk8Guy_SpriteSheet_39
+      rect:
+        serializedVersion: 2
+        x: 1750
+        y: 523
+        width: 250
+        height: 227
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4fd25f2b7697344b8421a1d678af928
+      internalID: 983348507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PizzaSk8Guy_SpriteSheet_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 273
+        width: 250
+        height: 227
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66b0a4c06ead25542b5bf1019fa496fb
+      internalID: -1823434709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PizzaSk8Guy_SpriteSheet_41
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 273
+        width: 250
+        height: 227
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 318b459ef293f67469599457e7ec1b9e
+      internalID: 598335592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PizzaSk8Guy_SpriteSheet_42
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 273
+        width: 250
+        height: 227
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b53c3622f2e20c4292ea635aeadc809
+      internalID: -1437299096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PizzaSk8Guy_SpriteSheet_43
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 273
+        width: 250
+        height: 227
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 001c5622b1ef94c44a47a50b65299fcd
+      internalID: 1162506473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PizzaSk8Guy_SpriteSheet_44
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 273
+        width: 250
+        height: 227
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d7a5a6da2dac2f4b9cd8d7cac391779
+      internalID: -1301521830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PizzaSk8Guy_SpriteSheet_45
+      rect:
+        serializedVersion: 2
+        x: 1250
+        y: 273
+        width: 250
+        height: 227
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5e7ec4f9049d8646a0f46bd1c4b5769
+      internalID: 1410161636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PizzaSk8Guy_SpriteSheet_46
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 273
+        width: 250
+        height: 227
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a87e40f836e0eb34e8f07ae5c4ab8ddd
+      internalID: 1494774859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PizzaSk8Guy_SpriteSheet_47
+      rect:
+        serializedVersion: 2
+        x: 1750
+        y: 273
+        width: 250
+        height: 227
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33f84323ede9f9f4eb6c626430c57b2f
+      internalID: 1970241036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PizzaSk8Guy_SpriteSheet_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 23
+        width: 250
+        height: 227
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6093071243511b48b3010ca1cebc1ef
+      internalID: -441405750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PizzaSk8Guy_SpriteSheet_49
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 23
+        width: 250
+        height: 227
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5730ccb5ad6b37459fb00aa1add48ed
+      internalID: -783670886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PizzaSk8Guy_SpriteSheet_50
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 23
+        width: 250
+        height: 227
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8967ea709dead434285f98fa20cecf15
+      internalID: -610727263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      PizzaSk8Guy_SpriteSheet_0: 1964732072
+      PizzaSk8Guy_SpriteSheet_1: 590100940
+      PizzaSk8Guy_SpriteSheet_10: 1373747666
+      PizzaSk8Guy_SpriteSheet_11: 1285269881
+      PizzaSk8Guy_SpriteSheet_12: -1173479287
+      PizzaSk8Guy_SpriteSheet_13: 1308605525
+      PizzaSk8Guy_SpriteSheet_14: 1237148257
+      PizzaSk8Guy_SpriteSheet_15: 400670323
+      PizzaSk8Guy_SpriteSheet_16: 871186273
+      PizzaSk8Guy_SpriteSheet_17: -1896461159
+      PizzaSk8Guy_SpriteSheet_18: 1549216572
+      PizzaSk8Guy_SpriteSheet_19: -1433450135
+      PizzaSk8Guy_SpriteSheet_2: 174450462
+      PizzaSk8Guy_SpriteSheet_20: -379704047
+      PizzaSk8Guy_SpriteSheet_21: -1012100307
+      PizzaSk8Guy_SpriteSheet_22: 2017775022
+      PizzaSk8Guy_SpriteSheet_23: -1030766051
+      PizzaSk8Guy_SpriteSheet_24: -2038290580
+      PizzaSk8Guy_SpriteSheet_25: 535916683
+      PizzaSk8Guy_SpriteSheet_26: -985041659
+      PizzaSk8Guy_SpriteSheet_27: -1741984078
+      PizzaSk8Guy_SpriteSheet_28: 1234274788
+      PizzaSk8Guy_SpriteSheet_29: 1443692486
+      PizzaSk8Guy_SpriteSheet_3: 646703487
+      PizzaSk8Guy_SpriteSheet_30: -1154366572
+      PizzaSk8Guy_SpriteSheet_31: -166357119
+      PizzaSk8Guy_SpriteSheet_32: 1293166315
+      PizzaSk8Guy_SpriteSheet_33: -1348023638
+      PizzaSk8Guy_SpriteSheet_34: -1884194221
+      PizzaSk8Guy_SpriteSheet_35: -1858872298
+      PizzaSk8Guy_SpriteSheet_36: 386632740
+      PizzaSk8Guy_SpriteSheet_37: 2006198644
+      PizzaSk8Guy_SpriteSheet_38: -518106705
+      PizzaSk8Guy_SpriteSheet_39: 983348507
+      PizzaSk8Guy_SpriteSheet_4: 910409813
+      PizzaSk8Guy_SpriteSheet_40: -1823434709
+      PizzaSk8Guy_SpriteSheet_41: 598335592
+      PizzaSk8Guy_SpriteSheet_42: -1437299096
+      PizzaSk8Guy_SpriteSheet_43: 1162506473
+      PizzaSk8Guy_SpriteSheet_44: -1301521830
+      PizzaSk8Guy_SpriteSheet_45: 1410161636
+      PizzaSk8Guy_SpriteSheet_46: 1494774859
+      PizzaSk8Guy_SpriteSheet_47: 1970241036
+      PizzaSk8Guy_SpriteSheet_48: -441405750
+      PizzaSk8Guy_SpriteSheet_49: -783670886
+      PizzaSk8Guy_SpriteSheet_5: 1353596487
+      PizzaSk8Guy_SpriteSheet_50: -610727263
+      PizzaSk8Guy_SpriteSheet_6: -470791962
+      PizzaSk8Guy_SpriteSheet_7: 438924550
+      PizzaSk8Guy_SpriteSheet_8: -243632933
+      PizzaSk8Guy_SpriteSheet_9: 1701321886
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
