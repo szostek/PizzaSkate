@@ -9,7 +9,7 @@ public class CarGenerator : MonoBehaviour
 
     void Start()
     {
-        InvokeRepeating("GenerateCar", 30f, Random.Range(8f, 24f));
+        InvokeRepeating("GenerateCar", 10f, Random.Range(8f, 24f));
     }
 
     private void GenerateCar()
